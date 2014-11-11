@@ -1,0 +1,71 @@
+body {
+  background-color: #88A472;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+
+ul {
+	text-align:left;
+}
+
+h1 {
+	text-align:center;
+	color:#006600;
+}
+
+h2, h3{
+	margin-left:13px;
+}
+
+h2.middle{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h3.middle{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+ul{
+	font-size: 17px;
+}
+
+p{
+	margin-left:13px;
+	font-size: 17px;
+}
+
+p.middle{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img.middle{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img.gallery{
+	float:left;
+	height:12em;
+	margin-left:1%;
+	margin-bottom:0.5em;
+}
+
+h2{
+	text-align:left;
+}
+a {
+	color:#005A31;
+}
+
+a:hover {
+	color:#CBE32D;
+}
+
+/* Other possible style blocks go here... */
+
